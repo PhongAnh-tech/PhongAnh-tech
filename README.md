@@ -15,22 +15,39 @@
 
 ## 📌 About Me
 
-- 🚀 Web Developer & Founder @ PhongAnh
-- 💡 I craft fast, modern & user-centric websites that not only look great but solve real-world problems
-- ⚡ Specialized in building responsive, scalable & high-performance web applications
-- 🛠️ Tech Stack:
-- HTML | CSS | JavaScript | React | Django | REST APIs
-- 🌍 Collaborated with local & international clients, delivering quality-driven digital solutions
-- 📊 Strong focus on performance optimization, SEO strategies & clean UI/UX design
+- 👨‍🎓 Software Engineering Student
+- 💻 Passionate about software development and web technologies
+- 🚀 Interested in building modern, responsive and user-friendly applications
+- 🖥️ Experienced in developing desktop applications using C# and Windows Forms
+- 🌐 Practiced website design and development
+- 🗄️ Knowledge of database design and management using SQL Server and MySQL
+- 📊 Studied Object-Oriented Analysis and Design with UML
+- 🐍 Practiced programming with Python
+- 🎯 Continuously learning and improving software engineering skills
+
+---
 
 ## 🧠 My Focus Areas
 
-- 📈 Performance Optimization
-- 🔍 SEO Strategies
-- 🎨 Clean & Modern UI/UX Design
-- ⚡ Fast & Responsive Web Development
-- 🧩 Scalable & Maintainable Code
-- 🌐 User-Centric Digital Experiences
+- 💻 Software Development (C#, Python, Web Development)
+- 🗄️ Database Design & Management (SQL Server, MySQL)
+- 🌐 Website Development & Responsive UI/UX Design
+- 📊 Object-Oriented Analysis & Design (UML)
+- 🖥️ Desktop Application Development (Windows Forms)
+- ⚡ Performance Optimization & Clean Code
+- 🧩 Scalable & Maintainable Software Architecture
+- 🔍 Software Testing & Problem Solving
+
+---
+
+## 🚀 Academic Projects
+
+- 🌐 Website Development Projects
+- 🖥️ Windows Forms Desktop Applications
+- 🗄️ Database Design & Management Projects
+- 📊 Object-Oriented Analysis and Design with UML
+- 🐍 Python Programming Projects
+- 💻 C# Programming Projects
 
 ## 📊 GitHub Stats & Trophies
 
